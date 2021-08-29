@@ -1,0 +1,11 @@
+Proyecto para realizar mantenimiento de objeto producto
+los datos del producto son:
+id, nombre, fecha, precio, cantidad
+
+se pide realizar los siguientes procesos:
+ registrar
+ consultar
+ actualizar precio
+ actualizarcantidad
+ 
+

@@ -1,0 +1,22 @@
+  test final
+
+ implementar un proyecto para realizar un crud
+ de productos
+  datos del producto
+ codigo
+ nombre
+ fecha
+ proveedor
+ categoria
+ precio
+ cantidad
+
+ 1-registrar productos
+ 2-realizar las siguientes consultas
+   -por categoria
+   -por proveedor
+   -por fecha
+   - listar todos
+ 3-para el diseño de la ventana usar los controles
+   que ud. cree necesario.
+   
